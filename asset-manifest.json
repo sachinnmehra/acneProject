@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/css/main.7da87071.chunk.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/main.5e9ffa76.chunk.js",
+    "main.js.map": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/main.5e9ffa76.chunk.js.map",
+    "runtime-main.js": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/runtime-main.43a2711e.js",
+    "runtime-main.js.map": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/runtime-main.43a2711e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.306aedc7.chunk.js": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/2.306aedc7.chunk.js",
+    "static/js/2.306aedc7.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/2.306aedc7.chunk.js.map",
+    "static/js/3.3c127fd7.chunk.js": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/3.3c127fd7.chunk.js",
+    "static/js/3.3c127fd7.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/3.3c127fd7.chunk.js.map",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7da87071.chunk.css.map": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/css/main.7da87071.chunk.css.map",
+    "static/js/2.306aedc7.chunk.js.LICENSE.txt": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/js/2.306aedc7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git%20remote%20add%20origin%20https://github.com/sachinnmehra/acneProject.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43a2711e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.306aedc7.chunk.js",
+    "static/css/main.7da87071.chunk.css",
+    "static/js/main.5e9ffa76.chunk.js"
+  ]
+}
